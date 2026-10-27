@@ -20,7 +20,6 @@ public class FamousQuotes {
                     "It does not matter how slowly you go as long as you do not stop",
                     "Our greatest glory is not in never falling, but in rising every time we fall"
             };
-
             // Setting a selector
             System.out.println("Enter 1 - 10 to display a quote: ");
             int quoteIndex = inputScanner.nextInt();
